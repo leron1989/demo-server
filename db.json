@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 10001,
+      "username": "zhangsan",
+      "password": "111111",
+      "email": "zhangshan@gmail.com"
+    },
+    {
+      "id": 10002,
+      "username": "lisi",
+      "password": "111111",
+      "email": "lisi@gmail.com"
+    },
+    {
+      "id": 10003,
+      "username": "wangwu",
+      "password": "111111",
+      "email": "wangwu@gmail.com"
+    },
+    {
+      "id": 10004,
+      "username": "zhaoliu",
+      "password": "111111",
+      "email": "zhaoliu@gmail.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
