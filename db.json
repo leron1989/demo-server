@@ -25,7 +25,7 @@
       "email": "zhaoliu@gmail.com"
     }
   ],
-  todayCheckInfo : [
+  "todayCheckInfo" : [
     {
       "check_time_time": "12:30",
       "visitor_name": "张三",
