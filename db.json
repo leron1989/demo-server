@@ -27,7 +27,7 @@
   ],
   "todayCheckInfo" : [
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -36,7 +36,7 @@
       "id": "1"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -45,7 +45,7 @@
       "id": "2"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -54,7 +54,7 @@
       "id": "3"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -63,7 +63,7 @@
       "id": "4"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -72,7 +72,7 @@
       "id": "5"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -81,7 +81,7 @@
       "id": "6"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -90,7 +90,7 @@
       "id": "7"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -99,7 +99,7 @@
       "id": "8"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -108,7 +108,7 @@
       "id": "9"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -117,7 +117,7 @@
       "id": "10"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -126,7 +126,7 @@
       "id": "11"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -135,7 +135,7 @@
       "id": "12"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
@@ -144,7 +144,7 @@
       "id": "13"
     },
     {
-      "check_time_time": "12:30",
+      "check_time": "12:30",
       "visitor_name": "张三",
       "mobile_phone": "13333333333",
       "check_type": "检入",
