@@ -1,156 +1,172 @@
 {
-  "users": [
+  "statuses": [
     {
-      "id": 10001,
-      "username": "zhangsan",
-      "password": "111111",
-      "email": "zhangshan@gmail.com"
+      "id": "1",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"1",
+        "name":"大东",
+        "city":"杭州"
+      }
     },
     {
-      "id": 10002,
-      "username": "lisi",
-      "password": "111111",
-      "email": "lisi@gmail.com"
+      "id": "2",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"2",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "3",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"3",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "4",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"4",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "5",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"5",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "6",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"6",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "7",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"7",
+        "name":"大东",
+        "city":"杭州"
+      }
     },
     {
-      "id": 10003,
-      "username": "wangwu",
-      "password": "111111",
-      "email": "wangwu@gmail.com"
-    },
-    {
-      "id": 10004,
-      "username": "zhaoliu",
-      "password": "111111",
-      "email": "zhaoliu@gmail.com"
-    }
-  ],
-  "todayCheckInfo" : [
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "1"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "2"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "3"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "tur",
-      "car_no": "浙A 4321",
-      "id": "4"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "true",
-      "car_no": "浙A 12345",
-      "id": "5"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "6"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "7"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "8"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "9"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "10"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "11"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "12"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "13"
-    },
-    {
-      "check_time": "12:30",
-      "visitor_name": "张三",
-      "mobile_phone": "13333333333",
-      "check_type": "检入",
-      "has_car": "",
-      "car_no": "",
-      "id": "14"
+      "id": "8",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"8",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "9",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"9",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "10",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"10",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "11",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"11",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "12",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"12",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "13",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"13",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "14",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"14",
+        "name":"大东",
+        "city":"杭州"
+      }
+    },{
+      "id": "15",
+      "profileImageUrl": "1.jpg",
+      "mbtype": "mbtype.png",
+      "source": "iPhone 5E",
+      "text": "我要换手机啊啊啊啊啊啊啊啊",
+      "user": {
+        "id":"15",
+        "name":"大东",
+        "city":"杭州"
+      }
     }
   ]
 }
