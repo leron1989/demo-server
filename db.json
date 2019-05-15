@@ -17,8 +17,6 @@
     {
       "id": "2",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -32,8 +30,6 @@
     },{
       "id": "3",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -47,8 +43,6 @@
     },{
       "id": "4",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -62,8 +56,6 @@
     },{
       "id": "5",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -77,8 +69,6 @@
     },{
       "id": "6",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -92,8 +82,6 @@
     },{
       "id": "7",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -108,8 +96,6 @@
     {
       "id": "8",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -123,8 +109,6 @@
     },{
       "id": "9",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -138,148 +122,6 @@
     },{
       "id": "10",
       "createdAt":"8:32",
-{
-  "statuses": [
-    {
-      "id": "1",
-      "createdAt":"8:32",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"1",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },
-    {
-      "id": "2",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"2",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "3",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"3",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "4",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"4",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "5",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"5",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "6",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"6",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "7",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"7",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },
-    {
-      "id": "8",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"8",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "9",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
-      "source": "iPhone 5E",
-      "text": "我要换手机啊啊啊啊啊啊啊啊",
-      "user": {
-        "id":"9",
-        "name":"大东",
-        "screenName":"大东",
-        "city":"杭州",
-        "profileImageUrl": "1.jpg",
-        "mbtype": "mbtype.png"
-      }
-    },{
-      "id": "10",
-      "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -293,8 +135,6 @@
     },{
       "id": "11",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -308,8 +148,6 @@
     },{
       "id": "12",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -323,8 +161,6 @@
     },{
       "id": "13",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -338,8 +174,6 @@
     },{
       "id": "14",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
@@ -353,8 +187,6 @@
     },{
       "id": "15",
       "createdAt":"8:32",
-      "profileImageUrl": "1.jpg",
-      "mbtype": "mbtype.png",
       "source": "iPhone 5E",
       "text": "我要换手机啊啊啊啊啊啊啊啊",
       "user": {
